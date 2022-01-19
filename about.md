@@ -23,4 +23,4 @@ Swiftkey.
 The source codes for ui.R and server.R files are also available on the
 GitHub repo: https://github.com/Kazishadidraiyan/Data-Science-Capstone
 
-Presentation Slide decks are available on the RPubs page: Link
+Presentation Slide decks are available on the RPubs page: https://rpubs.com/kazishadidraiyan/856731
