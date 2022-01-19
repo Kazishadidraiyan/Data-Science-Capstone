@@ -1,21 +1,23 @@
-# Data Science Capstone Project
-
-This repository contains the relevant files used and created during the Data Science Capstone Project.
-
-The purpose of the project was to develop a data product which uses natural language processing to predict the next word a user may want to type. A shiny application serves as the final product for this project.
-
-## Application
-The Shiny app is available online: <a href="http://link/" target="_blank">here</a>.
-## Presentation
-The R Studio presentation is available online: <a href="http://rpubs.com" target="_blank">here</a>.
+# Data Science Capstone: Final Project
 
 
+## Data Product
 
-## Other noteworthy documents
+Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
+Does the app load to the point where it can accept input?
+When you type a phrase in the input box do you get a prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer?
+Put five phrases drawn from Twitter or news articles in English leaving out the last word. Did it give a prediction for every one?
 
-* [Final Report](http://rpubs.com/)
 
-Please see the course website for further information on the project and the data science specialization.
+## Slide Deck
 
-[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
-offered on Coursera by Johns Hopkins University.
+Does the link lead to a 5 slide deck on R Pubs?
+Does the slide deck contain a description of the algorithm used to make the prediction?
+Does the slide deck describe the app, give instructions, and describe how it functions?
+How would you describe the experience of using this app?
+Does the app present a novel approach and/or is particularly well done?
+Would you hire this person for your own data science startup company?
+
+Presentation: Link
+
+Word Predict App: Link
