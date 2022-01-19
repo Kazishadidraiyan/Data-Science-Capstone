@@ -13,7 +13,7 @@ The R Studio presentation is available online: <a href="http://rpubs.com" target
 
 ## Other noteworthy documents
 
-* [Final Report](http://rpubs.com/wowkazmir/546921)
+* [Final Report](http://rpubs.com/)
 
 Please see the course website for further information on the project and the data science specialization.
 
