@@ -18,6 +18,6 @@ How would you describe the experience of using this app?
 Does the app present a novel approach and/or is particularly well done?
 Would you hire this person for your own data science startup company?
 
-Presentation: Link
+Presentation: https://rpubs.com/kazishadidraiyan/856731
 
-Word Predict App: Link
+Word Predict App: https://vqdyap-kazi0shadid-raiyan.shinyapps.io/shinyapp/
